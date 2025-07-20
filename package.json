@@ -34,5 +34,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "ndarray-ts": "^1.0.0"
+  }
 }

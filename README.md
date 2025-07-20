@@ -3,9 +3,9 @@
 A lightweight N-dimensional array (ndarray) library for TypeScript and JavaScript, inspired by NumPy. This package provides a foundational `NdArray` class for efficient numerical operations on multi-dimensional data.
 
 [![npm version](https://badge.fury.io/js/ndarray-ts.svg)](https://www.npmjs.com/package/ndarray-ts)
-https://badge.fury.io/js/ndarray-ts.svg
-https://www.npmjs.com/package/ndarray-ts
 [![Total Downloads](https://img.shields.io/npm/dt/ndarray-ts.svg)](https://www.npmjs.com/package/ndarray-ts)
+[![Hits](https://hits.sh/github.com/rajasekar-arch/ndArray-TS.svg?style=for-the-badge)](https://hits.sh/github.com/rajasekar-arch/ndArray-TS/)
+
 ## **🚀 Features**
 
 `ndarray-ts` aims to provide core functionalities for working with N-dimensional arrays, including:

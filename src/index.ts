@@ -4,4 +4,4 @@
  * Exports the NdArray class.
  */
 
-export { NdArray } from './ndArray';
+export { NdArray } from "./ndArray";

@@ -1,6 +1,7 @@
 // example.ts
+import { NdArray } from "ndarray-ts";
 
-import { NdArray } from './dist/index'; // Or 'ts-ndarray' if installed from npm
+// import { NdArray } from './dist/index'; // Or 'ts-ndarray' if installed from npm
 
 console.log("--- Example Usage of ts-ndarray ---");
 
